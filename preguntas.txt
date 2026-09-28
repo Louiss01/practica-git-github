@@ -1,0 +1,23 @@
+ PREGUNTA 1: ¿Qué mensaje aparece después de ejecutar git init? ¿Qué significa que se haya creado un 
+repositorio vacío? 
+
+- Initialized empty Git repository in C:/Users/Luis/Pr1Git_LuisMiguel/.git/
+- Que se ha creado una carpeta de repositorio la cual no tienen ninguna información dentro, mas allá de almacenar el futuro proyecto.
+
+
+PREGUNTAS PUNTO 10:
+
+1. ¿Qué diferencia existe entre git add y git commit? 
+Git add lo prepara y Git commit lo añade al proyecto
+2. ¿Para qué sirve git status? 
+Para comprobar el estado del proyecto, si está sincronizado, todos los archivos están subidos...
+3. ¿Qué información podemos obtener con git log? 
+El registro de commits
+4. ¿Qué muestra git diff? 
+Muestra las diferencias líneas añadidas en verde y eliminadas en rojo entre los archivos de tu directorio de trabajo
+5. ¿Qué ocurre si modificamos un archivo después de hacer un commit? 
+El archivo para a modiiado, la versión de la carpeta no coincide con la del commit
+6. ¿Es Git lo mismo que GitHub? Explica la diferencia. 
+Git es un sistema de control de versiones local, y GitHub es una plataforma web en nube que utiliza Git  para alogar tus repositorios
+7. ¿Por qué es importante utilizar mensajes de commit descriptivos? 
+Para dejar la información de los cambios lo mas redactada y clara posible
