@@ -1,3 +1,6 @@
+Este cambio de ha realizado desde una copia clonada
+
+
 PRÁCTICA 1 - GIT
 Alumno: Luis Miguel Manresa Skrzypczak
 Módulo: Desarrollo de Interfaces
