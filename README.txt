@@ -1,4 +1,4 @@
-Estado del proyecto: versión principal
+Estado del proyecto: versión experimental
 
 
 
