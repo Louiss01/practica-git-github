@@ -1,3 +1,7 @@
+Estado del proyecto: versión principal
+
+
+
 Este cambio de ha realizado desde una copia clonada
 
 
