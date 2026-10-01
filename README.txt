@@ -1,5 +1,4 @@
-Estado del proyecto: versión experimental
-
+Estado del proyecto: versión principal y experimental
 
 
 Este cambio de ha realizado desde una copia clonada
